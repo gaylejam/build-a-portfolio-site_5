@@ -1,0 +1,40 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h1 {
+	text-align: right;
+	color: #BCBBBB;
+	font-size: 52px;
+}
+
+h2 {
+	color: #BCBBBB;
+	}
+
+h3 {
+  text-align: right;
+  color: #BCBBBB;
+  }
+  
+h4 {
+ text-align: center;
+ color:#747704;
+  }
+  
+hr { 
+border-top:4px solid #BCBBBB;
+}
+ p {
+   text-align: center;
+ }
+ 
+ .img1 {
+ margin-left: auto;
+margin-right: auto;
+}
+ 
